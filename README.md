@@ -1,10 +1,10 @@
 # Project: Sign2V
 
-This project is designed for recognizing and processing American Sign Language (ASL). 
+This project is designed to recognize and process American Sign Language (ASL). 
 It includes tools for preprocessing data, training machine learning models, testing accuracy, and deploying an 
 application for real-time sign language recognition and speech-to-text conversion to achieve 2-Ways Conversation.
 
-<img src="https://imgur.com/It3JMsf" alt="Logo" width="250">
+<img src="https://imgur.com/It3JMsf.png" alt="Logo" width="250">
 
 ---
 
@@ -78,7 +78,7 @@ project/
    - Quick-start dataset: https://www.kaggle.com/datasets/ayuraj/asl-dataset or
    - Use ```DataCollecting/DataCollection.py``` script to capture and label the raw image data through your webcam (Optional)
 
-<img src="https://imgur.com/9MieL1D" alt="Labeling_Demo" width="400" height="300">
+<img src="https://imgur.com/9MieL1D.png" alt="Labeling_Demo" width="400" height="300">
 
 2. Place your raw ASL data in the ```Preprocessing/asl_dataset/``` directory.
    #### Dataset Structure
@@ -112,7 +112,7 @@ project/
 3. Wait for the training process
 4. Confirmed that the chosen model & encoder has been saved in ```Training/model_dir/``` directory.
 
-<img src="https://imgur.com/G0ZLJ2c" alt="Model_Performance" width="1000">
+<img src="https://imgur.com/G0ZLJ2c.png" alt="Model_Performance" width="1000">
 
 <br>
 
@@ -122,7 +122,7 @@ project/
 
 Run ```Application/App.py``` script to execute the app.
 
-<img src="https://imgur.com/sbLO2ln" alt="App_Demo" width="500">
+<img src="https://imgur.com/sbLO2ln.png" alt="App_Demo" width="500">
 
 <br>
 
