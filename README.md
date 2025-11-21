@@ -1,6 +1,6 @@
 I'm thrilled to share that I've been awarded the Silver Medal at the IEIG2025!
-<img src="https://imgur.com/It3JMsf.png" alt="Booth">
-<img src="https://imgur.com/eeHHGF5" alt="Award">
+<img src="https://imgur.com/1nqJnfB.png" alt="Booth">
+<img src="https://imgur.com/eeHHGF5.png" alt="Award">
 ---
 
 # Project: Sign2V
