@@ -1,3 +1,8 @@
+I'm thrilled to share that I've been awarded the Silver Medal at the IEIG2025!
+<img src="https://imgur.com/It3JMsf.png" alt="Booth">
+<img src="https://imgur.com/eeHHGF5" alt="Award">
+---
+
 # Project: Sign2V
 
 This project is designed to recognize and process American Sign Language (ASL). 
